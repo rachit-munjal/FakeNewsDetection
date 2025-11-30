@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 👨‍💻 Development Team
 
-**🧑‍💻 [Aditya Walia](https://github.com/Aditya-Walia1)**  
+**🧑‍💻 [Rachit Munjal](https://github.com/rachit-munjal)**  
 *Lead Developer & Project Architect*
 
 ---
